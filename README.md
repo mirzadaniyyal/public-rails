@@ -10,7 +10,7 @@ or check out our [YouTube channel](https://www.youtube.com/playlist?list=PLQ176F
 To get started with the app, first clone the repo and `cd` into the directory:
 
 ```
-$ git clone https://github.com/JetBrains/sample_rails_app.git 
+$ git clone https://github.com/mirzadaniyyal/rails-aap.git
 $ cd sample_rails_app
 ```
 
